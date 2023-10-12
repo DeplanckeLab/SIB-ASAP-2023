@@ -42,8 +42,8 @@ This course will take place 100% online.
 
 ***
 
-**2023.11.08 (3h)**: After a short introduction to single-cell genomics, and more particularly single-cell transcriptomics, we will see what is ASAP and how we can use it to perform single-cell analysis on an example dataset.
-**2023.11.15 (3h)**: Hands-on session on a single-cell dataset where participants will perform all steps of the single-cell analysis pipeline themselves, and annotate cell types.
+- **2023.11.08 (3h)**: After a short introduction to single-cell genomics, and more particularly single-cell transcriptomics, we will see what is ASAP and how we can use it to perform single-cell analysis on an example dataset.
+- **2023.11.15 (3h)**: Hands-on session on a single-cell dataset where participants will perform all steps of the single-cell analysis pipeline themselves, and annotate cell types.
 
 <br/>
 
