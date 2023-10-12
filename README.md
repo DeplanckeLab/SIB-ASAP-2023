@@ -74,6 +74,10 @@ At the end of the course, the participants are expected to:
 
 - __*Vincent Gardeux*__, Senior Scientist, EPFL, Lausanne, 🇨🇭 Switzerland
 
+## Coordination:
+
+- __*Monique Zahn*__, SIB training group, 🇨🇭 Switzerland
+
 <br/>
 <br/>
 
