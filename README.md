@@ -61,7 +61,7 @@ At the end of the course, the participants are expected to:
 - This course is designed for beginners. Basic knowledge of single-cell analysis (equivalent to the SIB courses Single-cell Transcriptomics or NGS - Single-cell RNA-Seq Analysis) is required.
 
 **Pre-requisites - material & software**
-- This webinar will be streamed, the participants are thus required to have their own computer with an Internet connection. ASAP is a fully online tool, so no other installation is needed.
+- This course will be streamed, the participants are thus required to have their own computer with an Internet connection. ASAP is a fully online tool, so no other installation is needed.
 
 <br/>
 
