@@ -14,9 +14,7 @@ The goal of this course is to provide theoretical and practical knowledge in the
 
 This course covers the standard analysis of a single-cell RNA-seq dataset using [ASAP](asap.epfl.ch). ASAP (Automated Single-cell Analysis Portal) is a web-based ([asap.epfl.ch](asap.epfl.ch)), collaborative portal aimed at democratizing single-cell omics data analyses and rendering it more accessible to researchers. ASAP does not require any installation and enables standardized analyses that can be run in minutes by any user without requiring significant computing power. The entire single-cell analysis pipeline is available in ASAP, allowing users to choose from a panel of tools, and guiding them through tutorials.
 
-In the hands-on part of this course, we will use a toy dataset consisting of 7,000 cells from the ["Fly Cell Atlas"](https://flycellatlas.org/) repository. These cells all come from the **Body** part, which was dissociated as a whole and sequenced using 10x Genomics technology over 10 batches, mixing males and females.
-
-This set of 7,000 cells was carefully selected/filtered from the original **Body dataset** that consists of 96,926 cells. They belong to *a certain number* of differently annotated cell types.
+In the hands-on part of this course, we will use a toy dataset consisting of 7,000 cells from the ["Fly Cell Atlas"](https://flycellatlas.org/) repository. These cells all come from the **Body** part, which was dissociated as a whole and sequenced using 10x Genomics technology over 10 batches, mixing males and females. This set of 7,000 cells was carefully selected/filtered from the original **Body dataset** that consists of 96,926 cells. They belong to *a certain number* of differently annotated cell types. The goal of this exercise session is to 1) find out how many cell types there are in the data set, and 2) annotate the cell types using ASAP or any other literature/expert curated knowledge about cell-types/marker genes.
 
 <br/>
 
