@@ -12,7 +12,7 @@ In recent years, single-cell transcriptomics has become a widely used technology
 
 The goal of this course is to provide theoretical and practical knowledge in the basic analysis of single-cell RNA-seq datasets.
 
-This course covers the standard analysis of a single-cell RNA-seq dataset using ASAP. ASAP (Automated Single-cell Analysis Portal) is a web-based, collaborative portal aimed at democratizing single-cell omics data analyses and rendering it more accessible to researchers. ASAP does not require any installation and enables standardized analyses that can be run in minutes by any user without requiring significant computing power. The entire single-cell analysis pipeline is available in ASAP, allowing users to choose from a panel of tools, and guiding them through tutorials.
+This course covers the standard analysis of a single-cell RNA-seq dataset using [ASAP](asap.epfl.ch). ASAP (Automated Single-cell Analysis Portal) is a web-based ([asap.epfl.ch](asap.epfl.ch)), collaborative portal aimed at democratizing single-cell omics data analyses and rendering it more accessible to researchers. ASAP does not require any installation and enables standardized analyses that can be run in minutes by any user without requiring significant computing power. The entire single-cell analysis pipeline is available in ASAP, allowing users to choose from a panel of tools, and guiding them through tutorials.
 
 In the hands-on part of this course, we will use a toy dataset consisting of 7,000 cells from the ["Fly Cell Atlas"](https://flycellatlas.org/) repository. These cells all come from the **Body** part, which was dissociated as a whole and sequenced using 10x Genomics technology over 10 batches, mixing males and females.
 
