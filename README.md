@@ -10,7 +10,7 @@ SIB/EPFL course by [Vincent Gardeux ](https://people.epfl.ch/vincent.gardeux)
 
 In recent years, single-cell transcriptomics has become a widely used technology to study heterogeneous and dynamic biological systems. A large number of new tools and approaches have been developed for analyzing this new type of data.
 
-The goal of this course is to provide theoretical and practical knowledge in the basic analysis of single-cell RNA-seq datasets.
+The goal of this course is to provide theoretical and practical knowledge in the basic analysis of single-cell RNA-seq datasets. Specifically, using an online platform, ASAP ([asap.epfl.ch](asap.epfl.ch)), to make the entire analysis code-free, reproducible and shareable.
 
 This course covers the standard analysis of a single-cell RNA-seq dataset using [ASAP](asap.epfl.ch). ASAP (Automated Single-cell Analysis Portal) is a web-based ([asap.epfl.ch](asap.epfl.ch)), collaborative portal aimed at democratizing single-cell omics data analyses and rendering it more accessible to researchers. ASAP does not require any installation and enables standardized analyses that can be run in minutes by any user without requiring significant computing power. The entire single-cell analysis pipeline is available in ASAP, allowing users to choose from a panel of tools, and guiding them through tutorials.
 
