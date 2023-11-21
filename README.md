@@ -2,7 +2,7 @@
 
 SIB/EPFL course by [Vincent Gardeux ](https://people.epfl.ch/vincent.gardeux)<br/>
 SIB course website: [https://www.sib.swiss/training/course/20231108_ASAP](https://www.sib.swiss/training/course/20231108_ASAP)<br/>
-Recording of the lecture: [![Youtube video of lecture "Using ASAP for Single-Cell Analysis"](https://img.youtube.com/vi/OjFamgLC_8M/0.jpg)](https://www.youtube.com/watch?v=OjFamgLC_8M)
+Recording of the lecture: [![Youtube video of lecture "Using ASAP for Single-Cell Analysis"](<i class="fa-brands fa-youtube"></i>)](https://www.youtube.com/watch?v=OjFamgLC_8M)
 
 ***
 
