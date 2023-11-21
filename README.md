@@ -2,7 +2,7 @@
 
 SIB/EPFL course by [Vincent Gardeux ](https://people.epfl.ch/vincent.gardeux)<br/>
 SIB course website: [https://www.sib.swiss/training/course/20231108_ASAP](https://www.sib.swiss/training/course/20231108_ASAP)<br/>
-Recording of the lecture: ![YouTube Video Views](https://img.shields.io/youtube/views/OjFamgLC_8M)
+Recording of the lecture: [YouTube Video Views](https://img.shields.io/youtube/views/OjFamgLC_8M)
 
 
 ***
